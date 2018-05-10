@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Learning JavaScript</title>
+		<link rel="stylesheet" type="text/css" href=""/>
+	</head>
+
+<body>
+	<div class="header">
+		<h1 id="heading">Learning JavaScript</h1>
+		<p>With Brad Traversy</p>
+	</div>
+
+<div class="container">
+<h1 id="time"></h1>
+<button onclick="doClick()">Click Me</button>
+<button onclick="this.innerHTML = 'You Clicked!'">Click Me</button>
+<button onclick="changeText()">Show</button>
+<button onclick="showDate()">Show Date</button>
+</div>
+
+<script>
+function doClick(){
+	alert('You Clicked!')
+;}
+
+function changeText(){
+	var heading = document.getElementById('heading');
+	heading.innerHTML = 'YouClicked!';	
+}
+
+function showDate(){
+	var time = document.getElementById('time');
+	time.innerHTML = Date();
+}
+
+
+	var number1 = 35;
+	var number2 = 40
+	alert(number1 + number2);	
+
+
+var colors = new Array('red', 'yellow', 'orange');
+colors[3] = 'green';
+colors.push('purple');
+
+alert(colors[4]); 
+
+//camel case
+var myFavoriteNumber;
+
+// partial case
+var MyFavoriteNumber;
+
+// underscore
+var my_favorite_number;
+
+
+var numbers = [5,77,6,'Seven'];
+alert(numbers[4]);
+
+alert(numbers.sort());
+
+
+// Loops
+console.log(123);
+
+for(var i = 0; i < 10; i++){
+	console.log("I love the number " + i);
+}
+
+var i = 0;
+while(i < 10){
+	console.log()
+	i++;
+}
+
+
+var numbers = [33, 54, 76, 34, 2, 6];
+
+numbers.forEach(function(number){
+	console.log(number);
+});
+numbers.reverse();
+for(var i = 0; i < numbers.length; i++){
+	console.log(numbers[i]);
+}
+
+if(1 == 1){
+	console.log('This is true');
+}
+
+var var1 = 3;
+var var2 = 4;
+if(var1 != var2){
+	console.log('This is true');
+} else {
+	console.log('This is not true');
+} 
+
+var fruit = 'apple';
+
+switch(fruit){
+	case "banana":
+		alert('I hate bananas');
+		break;
+	case "apple":
+		alert('I love apples');
+		break;
+	case "orange":
+		alert('Oranges are ok');
+		break;
+	default:
+		alert('I love all other fruits');
+		break;
+};
+
+// Object Literal
+var person = {
+	firstName: 'Brad',
+	lastName: 'Traversy',
+	age: 34
+}
+
+console.log(person.age);
+
+// Object Constructor
+var apple = new Object();
+apple.color = 'red';
+apple.shape = 'round';
+
+apple.describe = function(){
+	return 'An apple is the color ' + this.color + ' and is the shape is ' + this.shape 
+}
+console.log(apple.describe());
+
+
+// Constructor Pattern
+function Fruit(name, color, shape){
+	this.name = name;
+	this.color = color;
+	this.shape = shape;
+
+	this.describe = function(){
+		return 'A ' + this.name + ' is the color ' + this.color + ' and is the shape ' + this.shape;
+	}
+}
+
+// var apple = new Fruit('apple', 'red', 'round');
+
+var melon = new Fruit('melon', 'green', 'round');
+
+console.log(melon.describe());
+
+</script>
+
+</body>
+</html>
+
+
+
