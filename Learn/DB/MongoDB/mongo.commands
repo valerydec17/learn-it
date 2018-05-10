@@ -1,0 +1,24 @@
+
+use db_name //create and switches to the selected db
+
+db
+db.createUser({
+... user:"brad",
+... pwd:"1234",
+... roles:["readWrite", "dbAdmin"]
+... });
+db.createCollection('customers');
+
+db.collection_name.find(); // lists the documents in the collection_name 
+db.customers.find().pretty();
+db.customers.update({first_name:"Steven"}, {$rename:{"gender":"sex"}});
+db.customers.remove({first_name:"John"});
+
+db.customers.find(age:{$gt:40}).pretty();
+db.customers.find().sort({first_name:1});
+db.customers.find().limit(2).sort({first_name:1});
+db.customers.find().forEach(function(doc){print("Customer Name: "+doc.first_name)});
+
+
+
+

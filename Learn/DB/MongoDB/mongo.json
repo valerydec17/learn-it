@@ -1,0 +1,25 @@
+{
+	first_name:"John",
+	last_name: "Doe",
+	memberships: ["mem1", "mem2"],
+	address:{
+		street: "4 main st",
+		city:"Boston"
+	}
+	contacts:[
+		{name:"Brad", relashionsip: "friend"}
+	]
+}
+
+
+
+
+
+
+db.createUser({
+	user:"brad",
+	pwd:"1234",
+	roles:["readWrite", "dbAdmin"]
+});
+
+
