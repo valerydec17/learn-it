@@ -1,0 +1,8 @@
+| head -3
+| head -n2
+| tail -1
+| grep ''
+| xclip # copies to clipboard
+| less 
+| sort
+| sort | uniq # remove dublicates
