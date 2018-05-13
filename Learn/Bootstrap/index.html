@@ -9,9 +9,64 @@
   <link rel="stylesheet" href="css/bootstrap.min.css">
 
 
+<style>
+  .navbar{
+    margin-bottom: 0;
+  }
+</style>
+
   <title>Hello, world!</title>
 </head>
 <body>
+
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="#">Navbar</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item active">
+          <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Link</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Dropdown
+          </a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <a class="dropdown-item" href="#">Action</a>
+            <a class="dropdown-item" href="#">Another action</a>
+            <div class="dropdown-divider"></div>
+            <a class="dropdown-item" href="#">Something else here</a>
+          </div>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link disabled" href="#">Disabled</a>
+        </li>
+      </ul>
+      <form class="form-inline my-2 my-lg-0">
+        <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+      </form>
+    </div>
+  </nav>
+
+
+
+  <div class="jumbotron">
+    <h1 class="display-4">Hello, world!</h1>
+    <p class="lead">This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+    <hr class="my-4">
+    <p>It uses utility classes for typography and spacing to space content out within the larger container.</p>
+    <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+  </div>
+
+
+
   <div class="container">
     <h1 class="page-header">Hello, world! <small>Secondary text</small></h1>
     <hr />
@@ -93,18 +148,136 @@
         <button class="btn btn-default">Button</button>
         <a href="#" class="btn btn-default" role="button">Link</a>
         <input type="submit" class="btn btn-default" value="Submit">
+
+        <!--CONTEXTUAL BUTTONS-->
+        <button class="btn btn-default">Default</button>
+        <button class="btn btn-primary">Primary</button>
+        <button class="btn btn-success">Success</button>
+        <button class="btn btn-info">Info</button>
+        <button class="btn btn-warning">Warning</button>
+        <button class="btn btn-danger">Delete</button>
+        <button class="btn btn-link">Link</button>
+
+
+        <!--BUTTON SIZES-->
+        <button class="btn btn-default btn-lg">Default</button>
+        <button class="btn btn-default">Default</button>
+        <button class="btn btn-primary btn-sm">Default</button>
+        <button class="btn btn-default btn-xs" disabled="disabled">Default</button>
+
       </div>
 
-      <div style="height:400px"></div>
+      <!--FORMS-->
+      <div class="container">
+        <form>
+          <div class="form-group">
+            <label>Name</label>
+            <input type="text" class="form-control" placeholder="Add Name">
+          </div>
+          <div class="form-group">
+            <label>Email</label>
+            <input type="email" class="form-control" placeholder="Add Email">
+          </div>
+          <div class="form-group">
+            <label>Message</label>
+            <textarea class="form-control" placeholder="Add Message"></textarea>
+          </div>
+          <div class="form-group">
+            <label>Gender</label>
+            <select class="form-control">
+              <option value="male">Male</option>
+              <option value="female">Female</option>
+              <option value="other">Other</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label>Upload File</label>
+            <input type="file">
+            <p class="help-block">Only png and jpg allowed</p>
+          </div>
 
+          <div class="checkbox">
+            <label>
+             <input type="checkbox">Check me out
+           </label>
+         </div>
+         <button type="submit" class="btn btn-default">Submit</button>
+       </form>
+
+       <form class="form-inline">
+        <div class="form-group">
+          <label>Email</label>
+          <input type="email" class="form-control" placeholder="Email">
+        </div>
+        <div class="form-group">
+          <label>Password</label>
+          <input type="password" class="form-control" placeholder="Password">
+        </div>
+
+        <div class="checkbox">
+          <label>
+           <input type="checkbox">Remember me
+         </label>
+       </div>
+       <button type="submit" class="btn btn-default">Login</button>
+     </form>
+   </div>
+   
+ </div>
+
+
+ <div class="container">
+   <table class="table table-striped table-bordered table-hover ">
+     <tr>
+       <th>Firstname</th>
+       <th>Lastname</th>
+       <th>Age</th>
+     </tr>
+
+     <tr class="danger">
+       <th>John</th>
+       <th>Doe</th>
+       <th>24</th>
+     </tr>
+
+     <tr class="success">
+       <th>Samuel</th>
+       <th>Jackson</th>
+       <th>30</th>
+     </tr>
+
+   </table>
+
+
+   <!--PROGRESS BARS-->
+   <div class="progress">
+    <div class="progress-bar progress-bar-success progress-bar-striped active" style="width:50%;">
+      50%
     </div>
+  </div>
 
 
+</div>
 
-    <!-- Optional JavaScript -->
-    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
-  </body>
-  </html>
+<div class="container">
+  <div class="row">
+    <div class="col-md-8">
+      <p>For who thoroughly her boy estimating conviction. Removed demands expense account in outward tedious do. Particular way thoroughly unaffected projection favourable mrs can projecting own. Thirty it matter enable become admire in giving. See resolved goodness felicity shy civility domestic had but. Drawings offended yet answered jennings perceive laughing six did far. </p>
+    </div>
+    <div class="col-md-4">
+      <p>Call park out she wife face mean. Invitation excellence imprudence understood it continuing to. Ye show done an into. Fifteen winding related may hearted colonel are way studied. County suffer twenty or marked no moment in he. Meet shew or said like he. Valley silent cannot things so remain oh to elinor. Far merits season better tended any age hunted. </p>
+    </div>
+  </div>
+</div>
+
+
+<div style="height:400px"></div>
+
+<!-- Optional JavaScript -->
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+
+<script src="js/bootstrap.min.js"></script>
+</body>
+</html>
