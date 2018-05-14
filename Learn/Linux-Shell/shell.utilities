@@ -2,3 +2,5 @@
 youtube-dl $1 -q -o - | ffmpeg -i - $2
 youtube-dl --extract-audio --audio-format mp3 -a -
 youtube-dl $1 -q -o - | mplayer
+
+gpick # color picker for ubuntu
