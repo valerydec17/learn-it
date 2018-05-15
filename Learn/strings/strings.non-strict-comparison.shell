@@ -1,0 +1,2 @@
+cat yourfile.txt | tr -dc '[:alnum:]\n\r' | tr '[:upper:]' '[:lower:]'
+
