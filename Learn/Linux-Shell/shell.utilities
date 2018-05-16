@@ -4,3 +4,6 @@ youtube-dl --extract-audio --audio-format mp3 -a -
 youtube-dl $1 -q -o - | mplayer
 
 gpick # color picker for ubuntu
+
+# process that seats on port 5000 
+netstat -nlp|grep 5000
