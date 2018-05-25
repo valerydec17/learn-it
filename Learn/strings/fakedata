@@ -1,0 +1,9 @@
+# in python
+from faker import Faker
+
+fake = Faker()
+
+name = fake.name()
+email = fake.email()
+username = fake.last_name()
+password = fake.password()	
