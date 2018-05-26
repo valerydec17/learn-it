@@ -7,3 +7,14 @@ gpick # color picker for ubuntu
 
 # process that seats on port 5000 
 netstat -nlp|grep 5000
+
+# mouse event recorder on Ubuntu
+# maybe useful for small automation purposes 
+sudo apt-get install cnee
+sudo apt-get install xnee
+sudo apt-get install gnee
+cnee --record -o events.xnr --mouse --events-to-record 100 --time 2
+cnee --replay -f events.xnr --time 2
+
+
+
