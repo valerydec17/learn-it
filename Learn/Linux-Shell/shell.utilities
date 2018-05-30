@@ -16,5 +16,6 @@ sudo apt-get install gnee
 cnee --record -o events.xnr --mouse --events-to-record 100 --time 2
 cnee --replay -f events.xnr --time 2
 
-
-
+# magic installation
+# installation that works in most cases
+python -m pip install --user numpy scipy matplotlib
