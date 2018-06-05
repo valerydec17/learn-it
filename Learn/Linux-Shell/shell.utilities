@@ -23,3 +23,10 @@ python -m pip install --user numpy scipy matplotlib
 
 #ls
 ls *.{mp3,exe,mp4}
+
+# enhancing images
+convert -enhance -equalize -contrast image.jpg image_enhanced.jpg
+
+for file in *.jpg; do
+ convert -enhance -equalize -contrast $file "${file%.jpg}_new.jpg"
+done
