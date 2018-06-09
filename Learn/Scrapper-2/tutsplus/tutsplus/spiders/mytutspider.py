@@ -41,6 +41,8 @@ class MySpider(Spider):
 
 	def parse(self, response):
 		links = response.xpath('//a/@href').extract()
+
+		
 		crawledLinks = []
 		for link in links:
 			link = "http://code.tutsplus.com" + link

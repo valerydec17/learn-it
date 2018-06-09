@@ -3,6 +3,8 @@ from tutsplus.items import TutsplusItem
 from scrapy.http    import Request
 import re
 import os
+# import pdb
+
 
 
 class MySpider(Spider):
@@ -12,11 +14,22 @@ class MySpider(Spider):
 
 	def parse(self, response):
 		links = response.xpath('//a/@href').extract()
+		
 		crawledLinks = []
+		linkPattern = re.compile("^\/software\/")
+
+		linksToCrawl = []
 		for link in links:
-			link = "https://alternativeto.net/" + link
+			if linkPattern.match(link) and not link in crawledLinks:
+				linksToCrawl.append(link)
+
+		# pdb.set_trace()
+		# print linksToCrawl
+
+		for link in linksToCrawl:
+			link = "https://alternativeto.net" + link
 			print "New link started: ", link, "  CrawledPages: ", str(len(crawledLinks)) 
-			os.system('echo ' + str(len(crawledLinks)) + link + ' >> alt_log.txt')
+			os.system('echo ' + 'Link num. : ' + str(len(crawledLinks)) + ' Link :  ' + link + ' >> alt_log.txt')
 			crawledLinks.append(link)
 			yield Request(link, self.parse)
 
