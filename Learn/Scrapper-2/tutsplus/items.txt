@@ -1,262 +1,413 @@
 
 
+
+
 GitLab
 GitLab is a on-premise or hosted Git repository management tool.
-Adobe Photoshop
-Photoshop is a professional image editor and the de-facto industry standard.
-MyHeritage
-MyHeritage is a family-oriented social network service and genealogy website.
-TeamViewer
-TeamViewer lets you establish a connection to any PC or server within just a few seconds.
 GitHub
 GitHub is a web-based Git repository hosting service.
+VLC Media Player
+VLC is a free and open source cross-platform multimedia player and framework.
+TeamViewer
+TeamViewer lets you establish a connection to any PC or server within just a few seconds.
+Google Chrome
+A web browser built for speed, stability and security.
+Facebook Alternatives
+
+Microsoft Office Suite
+Microsoft Office is an office suite of applications, servers and services.
 Adobe Premiere Pro
+Adobe Acrobat DC
+Adobe Acrobat is a family of application software and web services developed by Adobe Systems to...
+Clarity Money
+Clarity Money could help you save money, plan your budget, track your spending, keep an eye on your...
+Buddy
+One-click delivery automation for web developers.
+GNU patch
+Patch takes a patch file containing a difference listing produced by the diff program and applies...
+Adobe Illustrator CC
+Adobe Illustrator CC is a commercial vector graphics editor.
+Microsoft Office Word
+Microsoft Word is a commercial word document processor for Windows.
 Autodesk AutoCAD
 YouTube
 YouTube is a video-sharing website that allows users to upload, view, and share videos.
-Adobe Acrobat DC
-Adobe Acrobat is a family of application software and web services developed by Adobe Systems to...
-Facebook Alternatives
-
-Adobe Illustrator CC
-Adobe Illustrator CC is a commercial vector graphics editor.
-Transity
-Google Chrome
-A web browser built for speed, stability and security.
-VLC Media Player
-VLC is a free and open source cross-platform multimedia player and framework.
-Microsoft Office Word
-Microsoft Word is a commercial word document processor for Windows.
-Photoscape
-high quality photo editing software, that enables you to fix and enhance photos.
-Buddy
-One-click delivery automation for web developers.
-WhatsApp Messenger
-WhatsApp Messenger is a cross-platform mobile messaging app which allows you to exchange messages...
-Adobe Acrobat Reader DC
-PDF Reader, PDF Viewer
-hike messenger
-Used for chatting, updating status, photos, sharing media like WhatsApp, WeChat, LINE etc.
-Telegram
-Vimeo
+MyHeritage
+MyHeritage is a family-oriented social network service and genealogy website.
 SeaMonkey
 The SeaMonkey project is a community effort to develop the SeaMonkey all-in-one internet...
-Rhythmbox
-Rhythmbox is an audio player for Linux that plays and organizes digital music.
-GeneWeb
-GeneWeb is a genealogy software program with a Web interface.
-Byword
-The easy way to write Markdown and rich text on your Mac and iDevices
-Pivotal Tracker
-Tracker is a story-based project planning tool from Pivotal Labs that allows teams to collaborate...
-Fotor
-Get ready to take your photos where no photo has gone before with Fotor.
-PeakFlow
-Continuous integration build testing and error reporting for developers.
-Karbon
-Karbon is the scalable vector drawing application in KDE.
-Messenger Lite
-Messenger Lite is a fast and data-efficient messaging app to reach the people in your life.
-LINE
-LINE is a Japanese proprietary application for instant messaging on smartphones and PCs.
-Xodo
-Nimbuzz
-Nimbuzz offers limited availablility free calls and limited availability free text messaging for...
-Falkon
-Falkon, formerly QupZilla, is a QtWebEngine based cross-platform web browser.
-GNU patch
-Patch takes a patch file containing a difference listing produced by the diff program and applies...
-Manuskript
-Open-source tool for writers.
-LiteManager
-LiteManager - fast and secure remote administration software for Computer.
-Vox Music Player
-All-in-one music player with SoundCloud, last.
-PhotoFiltre
-PhotoFiltre 7 is a complete image retouching program. It allows you to do simple or advanced
-Adium
-Adium is a free and open source instant messaging application for Mac OS X, written using Mac OS Xs...
-Rollbar
-Collect and analyze errors in JavaScript, Node.js, Python, Ruby, Java, PHP and other aplications.
-Reunion
-Reunion is a genealogy software program for the Macintosh
-Windows 8
-Windows 8 is a operating system that is optimized for tablets, desktops and hybrid devices.
-Linphone
-ICQ
-ICQ is one of the oldest instant messengers.
-Trelby
-A free, multiplatform, feature-rich screenwriting program.
-Empathy
-Empathy is a messaging program which supports text, voice, video chat, and file transfers over many...
-Imo
-Screen Sharing
-Screen Sharing is a VNC client by Apple Inc. included as part of Mac OS X v10.5.
-Photoline
-Photoline is a professional image editor which offers creatives a mostly non-destructive workflow...
-Poweramp
-Poweramp is the new powerful music player for Android.
-App Enlight
-App Enlight- provides a helpful interface to let you and your team save time spent on debugging and...
+Documents To Go
+Create, view and edit native Microsoft Word, Excel and PowerPoint files
 PDF Chain
 PDF Chain is a GUI for pdftk written with gtkmm.
-Opsview Atom
-Opsview Atom is ideal for personal use, SoHo setups, test or lab environments or just to get your...
-Digsby
-Digsby is a multiprotocol IM client that lets you chat with all your friends on AIM, MSN, Yahoo...
-Instantbird
-Instantbird is an instant messaging client based on Mozilla XULRunner and the open source library...
-Coccinella
-Coccinella is a free and open-source cross-platform instant messaging client with a built-in...
-Lubuntu
-Lubuntu is a faster, more lightweight and energy saving variant of ...
-Serif Drawplus
-Serif DrawPlus is the affordable, all-in-one, creative powerhouse for drawing, sketching, painting...
-Plotbot
-Plotbot is free screenwriting software.
-Google Play Music
-Google Play Music, a service available for people who have a Google account, lets people upload...
-Vinagre
-A VNC/SSH Client for the GNOME Desktop
-Fade In
-Fade In Professional Screenwriting Software is a complete application for writing motion picture...
-Nagios Log Server
-Nagios Log Server is a powerful enterprise-class log monitoring and management application that...
-Caprine
-Unofficial Facebook Messenger app.
-Kopete
-Kopete is an instant messenger supporting AIM, ICQ, MSN, Yahoo, Jabber, IRC, Gadu-Gadu, Novell...
+hike messenger
+Used for chatting, updating status, photos, sharing media like WhatsApp, WeChat, LINE etc.
+Polaris Office
+Octopus Deploy
+Octopus is a friendly deployment automation tool for .NET developers.
+Skrooge
+Skrooge allows you to manage your personal finances, powered by KDE 4.x.
+Byword
+The easy way to write Markdown and rich text on your Mac and iDevices
+LiveLeak
+LiveLeak is a video sharing website that lets users post and share videos.
+GeneWeb
+GeneWeb is a genealogy software program with a Web interface.
+Sourcegraph
+Sourcegraph is a free, self-hosted code search and intelligence server that helps developers find...
+Karbon
+Karbon is the scalable vector drawing application in KDE.
+NeoOffice
+Adobe Photoshop
+Photoshop is a professional image editor and the de-facto industry standard.
+Adobe Acrobat Reader DC
+PDF Reader, PDF Viewer
 Open CASCADE
 Open CASCADE Technology is a software development platform freely available in open source.
-TeamClerk
-Team Clerk is task management software that automatically keeps your team organized and monitors...
-IM+
-OpenNMS
-OpenNMS is an enterprise grade network monitoring and network management platform developed under...
-Google Chrome OS
-Chrome OS is a Linux-based operating system designed by Google to work exclusively with web...
-Autodesk SketchBook Designer
-Highland
-alt_log.txt alt_log_1.txt items.txt log.txt myalt.csv scrapy.cfg tutsplus 2013 Macworld Eddy Winner! - Best of 2013 alt_log.txt alt_log_1.txt items.txt log.txt myalt.csv scrapy.cfg tutsplus
-Logsene
-With Elasticsearch API and integrated Kibana, Logsene is the first true Hosted ELK Stack.
-Jamendo
-Jamendo is a community of free, legal and unlimited music published under Creative Commons licenses.
-JuiceSSH
-The all in one terminal client for Android including SSH, Local Shell, Mosh and Telnet support.
-Screens
-Screens is a VNC client for the iPhone, iPad, and Mac OS X that allows you to remotely connect to...
-Puppy Linux
-Linux is a free operating system, and Puppy Linux is a special build of Linux meant to make...
+Falkon
+Falkon, formerly QupZilla, is a QtWebEngine based cross-platform web browser.
+LiteManager
+LiteManager - fast and secure remote administration software for Computer.
+Rhythmbox
+Rhythmbox is an audio player for Linux that plays and organizes digital music.
+YouPHPTube
+It is an open source solution that is freely available to everyone.
+Xero
+Xero is beautifully designed accounting software that lets you manage your small business finances...
+Reunion
+Reunion is a genealogy software program for the Macintosh
+Serif Drawplus
+Serif DrawPlus is the affordable, all-in-one, creative powerhouse for drawing, sketching, painting...
+ReText
+Simple text editor for Markdown and reStructuredText documents.
+Octotree
+Browser extension to display GitHub code in tree format.
+Polarr
+From advanced image filters to professional local adjustments, Polarr Photo Editor is the most...
+JetBrains TeamCity
+TeamCity is a continuous integration and build management system.
 Precision Plan Pro
 Welcome home! Advanced digital takeoff and PDF solution by Precision Plan Pro.
-OpenProject
-OpenProject is an open-source project management software with a wide set of features and plugins.
-Zoiper
-SIP soft-phone
-The Dude
-The Dude network monitor is a new application by MikroTik which can dramatically improve the way...
-Remix OS
-Android, reimagined for the desktop.
-Mayura Draw
-Mayura Draw is a vector-based drawing program.
-Paper for Mac
-Motadata - Log Management Tool with Correlation
-Motadata is easy to use log management tool with correlation capability.
-Kanboard
-Kanboard is a free and open source Kanban project management software.
-tilda
-Drop down terminal, like Guake.
-gow
-Console
-Console is a Windows console window enhancement.
-Orangescrum
+Screen Sharing
+Screen Sharing is a VNC client by Apple Inc. included as part of Mac OS X v10.5.
+Messenger Lite
+Messenger Lite is a fast and data-efficient messaging app to reach the people in your life.
+ClearCheckbook
+ClearCheckbook is an extremely easy to use online checkbook register and money management tool.
+progeCAD
+progeCAD Professional is the most reliable ...
+Akaunting
+Free, open source and online accounting software for small businesses and freelancers
+FoxyUtils Online PDF Tools
+This service enables you to combine PDF documents into a single one, free of charge.
+Instantbird
+Instantbird is an instant messaging client based on Mozilla XULRunner and the open source library...
+Autodesk SketchBook Designer
+Insight.io
+Best web-based IDE-like source code browsing and search tool
+Bitten
+Bitten is a Python-based framework for collecting various software metrics via continuous...
+Atom
+A hackable text editor for the 21st Century.
+Screens
+Screens is a VNC client for the iPhone, iPad, and Mac OS X that allows you to remotely connect to...
+Photoline
+Photoline is a professional image editor which offers creatives a mostly non-destructive workflow...
+Adium
+Adium is a free and open source instant messaging application for Mac OS X, written using Mac OS Xs...
+Xodo
+Solid Edge
+Solid Edge is an industry-leading mechanical design system with exceptional tools for creating and...
+Penny
+Penny is a personal finance app that takes the pain out of keeping track of your finances.
+Vox Music Player
+All-in-one music player with SoundCloud, last.
+Bearbook
+Bearbookk is a new age online accounting software app that helps you to manage your sales...
+Atlantis Word Processor
+Atlantis is an innovative, no-nonsense word processor carefully designed with the end-user in mind.
+Caprine
+Unofficial Facebook Messenger app.
+Vecteezy Editor
+A free online vector graphics editor designed to let anyone create and share amazing graphics and...
+Qt Creator
+Qt Creator is a cross-platform C++, JavaScript and QML integrated development environment which is...
+Parabuild
+Parabuild is an automated software build and release management system that helps software...
+Digsby
+Digsby is a multiprotocol IM client that lets you chat with all your friends on AIM, MSN, Yahoo...
+Kate
+Text editor for the KDE desktop environment with support for multiple languages and syntax...
+Miranda NG
+Miranda New Generation is a successor of a popular multi-protocol instant messaging client for...
+DXR
+Powerful code search for large codebases.
+Poweramp
+Poweramp is the new powerful music player for Android.
+BlockTech Alexandria
+An open-source distributed library for sharing and preserving art, history and culture.
+Kamerge
+Zoho Writer
+An online word processor that lets you create and edit documents in your web browser and save them...
 ManageYum
 One desktop app for many apps, included Gmail, Inbox, Skype, Facebook Messenger, but also...
-CloudMonix
-Azure and AWS cloud monitoring and automation service built with MSPs, CSPs and DevOps in mind.
-Digitally Imported
-Digitally Imported is a multi-channel internet radio service specialising in Electronic Dance Music...
-WWChat
-Indie Chat / Messenger for Android
-feren OS
-Rolling release Linux distribution based on Debian Testing, Linux Mint, and Zorin OS.
-Bliss Os
-logz.io
-Real time, actionable insights into your log analytics data with ELK as a service.
-Fairphone Open
-alternative, open source version of Fairphone OS, built by Fairphone, that puts transparency and...
-pCon.planner
-The professional furnishing 2D-/3D-tool for everybody:
-MinGW-w64
-
-
-Hyper
-Extensible, cross-platform terminal built on open web standards.
+AutoDraw
+A Google Experiment that helps you draw with relevant suggestions.
+ANSYS Workbench
+Simulation and Multiphysics platform
+Coda
+Coda is a fast, clean, and powerful text editor with pixel-perfect preview and a built-in way to...
+UltraEdit
+UltraEdit is the ideal text, HTML and HEX editor, and an advanced PHP, Perl, Java and JavaScript...
+iMessage
+Say hello to the only messaging app you need.
+Adobe Dreamweaver
+Adobe Dreamweaver is a proprietary web development tool developed by Adobe Systems.
+Text Sherlock
+Provides a fast, easy to install and use search engine for text but, mostly for source code.
+Kadu
+Kadu is an open source Jabber/XMPP and Gadu-Gadu instant messenger client for Linux, *BSD, Mac and...
+FireAlpaca
+FireAlpaca is the image editor that can be used readily and easily.
+Time Recording
+Sonerezh
+A self-hosted, web-based application for stream your music, everywhere.
+Bluebeam Revu
+Bluebeam Revu delivers award-winning PDF creation, editing, markup and collaboration technology to...
+Nuclino
+Nuclino is the easiest way to organize and share knowledge in teams.
+PLAXIS 3D
+PLAXIS 3D is a finite element package intended for three-dimensional analysis of deformation and...
+PhpStorm
+Enjoy productive PHP and web development with PhpStorm.
+OptumCE
+A comprehensive finite element program for geotechnical stability and deformation analysis
+WebStorm
 One Chat - All in one Messenger
 One messenger for existing platforms
-Telephone
-Telephone is a VoIP program which allows you to make phone calls over the internet.
-Chromium OS
-Chromium OS is an open-source project, used primarily by developers, that aims to build an...
-Myspace
-Zorin OS
-Zorin OS is an easy to use, Linux-based operating system designed to make your computer faster...
+Xabber
+Jabiru
+Jabber client for Android.
+GIMPshop
+GIMPshop is essentially Gimp with some cosmetic changes.
+BlueGriffon
+An HTML editor based on Mozilla rendering engine.
+Digitally Imported
+Digitally Imported is a multi-channel internet radio service specialising in Electronic Dance Music...
+pCon.planner
+The professional furnishing 2D-/3D-tool for everybody:
+TopTracker
+Beautiful, free time tracking
+BBEdit
+A HTML and plain text editor intended for software development.
+DokuWiki
+DokuWiki is a standards compliant, simple to use Wiki, mainly aimed at creating documentation of...
+midas GTS NX
+GTS NX is a comprehensive finite element analysis software package that is equipped to handle the...
+kodeWeave
+HTML/CSS/JS and Markdown Playground For Web Designers and Developers
+WeeChat
+WeeChat is a fast, light and extensible chat client.
+Linphone
+Threema
+A secure, end-to-end encrypted Swiss instant messenger with a focus on privacy.
+Zend Studio
+Qoppa PDF Studio
+Create, Review and Edit PDF Documents on Windows, Mac OS X, and Linux
 Graphite
 Graphite is an easy to use precision 2D/3D CAD software for product design and development.
-DJGPP
-Slim ROM
-Producteev
-Task Management Software
-Kibana
-Easily visualize data pushed into Elasticsearch from Logstash, es-hadoop or 3rd party technologies...
-GNOME Terminal
-GNOME Terminal is a terminal emulator for the GNOME desktop environment written by Havoc Pennington...
-Terminator
-The robot future of terminals
-Musicovery
-Online radio that allow to choose mood of music.
-Spreed
-Spreed is the worldwide unified web conferencing service offering integrated web and telephone...
-VirtualMetric
-VirtualMetric is a secure real time infrastructure monitoring for Microsoft Hyper-V, VMware...
-Monit
-Monit is a free open source utility for managing and monitoring, processes, programs, files...
-YateClient
-YateClient is an Instant Messenger and a SoftPhone.
-Starfish PBX
-Phoner
-Softphone for VoIP, CAPI und TAPI.
-Carbon ROM
-Bria
-Thoughtfully designed, Bria 5 leverages over 10 years of softphone experience in improving...
-Sawmill
-sawmill.net: Sawmill is a universal log analysis/reporting tool for almost any log including web...
-Konsole
-Konsole is a free terminal emulator which is part of KDE Software Compilation.
-Terminals
-Terminals is a secure, multi tab terminal services/remote desktop client.
-Taskulu
-Taskulu is an online management and collaboration platform that takes the pain out of managing...
+KompoZer
+Easy Web Authoring!
+Timing
+Timing is the best way to keep track of the time you spend with your Mac.
+TextWrangler
+Fetchnotes
+Fetchnotes helps you capture and organize short notes like books to read, ideas and shopping lists...
+sas-civil
+SAS-CIVIL is intented as a finite elements menthod software, with application oriented to civil and...
+slap
+slap is a Sublime-like terminal-based text editor that strives to make editing from the terminal...
+Super Vectorizer
+Mac vector trace tool to convert raster png to SVG vector graphic.
+Zoiper
+SIP soft-phone
+Bit Chat
+Google Play Music
+Google Play Music, a service available for people who have a Google account, lets people upload...
+Myspace
+Wickr
+Wickr is a free end-to-end encrypted text, video, picture and voice messenger with full sender...
+ZeroChat
+An IRC-like chatroom hosted on ZeroNet, a distributed network.
+Google Allo
+Google Allo is a smart messaging app that helps you say more and do more.
+Google Web Designer
+Google Web Designer is a a program from Google for creating interactive HTML5 ads and other HTML5...
+timetrap
+Simple command line timetracker.
+Briar
+An open-source decentralized and encrypted messaging app even without internet connection via Wi-Fi...
+DYSSOLVE
+Free Structural Dynamics Software for Education
+ZeitNote
+Active time-tracking app that records time user spend working in apps, off time and shows brief...
+DIANA
+DIANA is an extensive multi-purpose finite element software package that is dedicated, to a wide...
+Harmony Music Player
+TeamSpeak
+TeamSpeak is a proprietary Voice over IP software that allows users to speak on a chat channel with...
 Mumble
 Mumble is an open source, low-latency, high quality voice chat software primarily intended for use...
-GFI MAX RemoteManagement
-ChatRooms
-Free chat rooms no registration. Retro text chat rooms hitting many different topics.
-Chat Rooms
-Free chat rooms no registration. Chat for free in many chat rooms.
-Chatzy
-Chatzy is a free private chat service which you can use to communicate with people you already know...
-MixCloud
-Mixcloud is re-thinking radio. Listen to great radios shows, Podcasts and DJ mix sets on-demand.
-Server and application performance monitoring has never been easier or more affordable.
-tSIP
-Lightweight portable SIP softphone with BLF and customizable keypad built with libre/librem/baresip...
-Nameless ROM
-Simple - NamelessRom is opportunity.
-QuteCom
-QuteCom is a community of enthusiasts and developers, creating free software products related to...
-ASG-Remote Desktop
-Deliver Secure Remote Access to Servers and Workstations in Real Time
-Dialog Messenger
-Dialog Messenger is a customized self-hosted platform usable across multi operation systems...
+Vector Magic
+Vector Magic automatically converts bitmap images like JPEGs, GIFs and PNGs to the crisp, clean...
+Quassel IRC
+Quassel IRC is a modern, cross-platform, distributed IRC client based on the Qt4 framework.
+aTimeLogger
+Application for tracking your everyday activities.
+Self-hosted chat for small teams.
+Website Layout Maker
+Mini WA+
+Custom Patch for Whatsapp
+Telephone
+Telephone is a VoIP program which allows you to make phone calls over the internet.
+LeechBlock
+LeechBlock is an extension for Firefox and Chrome that allows users to block time-wasting sites.
+CloudCalc
+CloudCalc provides free cloud based structural analysis software.
+LARS Bridge
+Bridge Load-rating Analysis and Modeling Software
+Phoner Second Phone Number
+Phoner provides business owner, sales people, lawyers, doctors, police officers and others with a...
+Cyanide
+Cyanide is https://alternativeto.net/software/tox/ client for https://alternativeto.
+Kiax
+Small program mainly aimed to provide a simple user interface for making VoIP calls with Asterisk...
+SAFE
+INTEGRATED DESIGN OF SLABS, MATS AND FOOTINGS
+DEVONthink
+DEVONthink is a solution to the digital age conundrum.
+ARBTT
+ARBTT, the Automatic Rule-Base Time Tracker, is a window logger that runs in background and logs...
+Sitefinity
+Sitefinity is a Web Content Management System that leverages the .NET 4.
+WYSIWYG Web Builder
+Gettick
+Work environment designed to maximize team performance and provide managers with a complete...
+Spreed
+Spreed is the worldwide unified web conferencing service offering integrated web and telephone...
+Blacklist
+A iOS app to block websites for a certain amount of time.
+SkyCiv Structural 3D
+SkyCiv Structural 3D is a powerful structural analysis and design software on the cloud.
+RM Bridge
+Bridge Design, Analysis, and Construction Software
+OpenBridge Modeler
+3D Bridge Modeling Software
+Tinode
+Tinode Instant Messaging
+LimeChat
+blogstrap.py
+TweakStyle
+An IDE tailor-made for web design and frontend development
+Toodledo
+Google Tasks
+to-do list app that integrates with Gmail and Google Calendar
+1Focus
+Block distracting apps and websites
+Graitec Advance Design
+BIM software for FEM structural analysis
+S-FRAME Analysis
+Structural Analysis with Integrated Concrete and Steel Design
+Win32Trace
+Focusbar
+Bring your tasks to a focus with Focusbar - simple but powerful tool to help you work on one thing...
+GtimeReport
+Export your Google Calendar to Excel and Google Docs Spreadsheets.
+CYPECAD
+Reliable structures, very precise drawings
+FocusMe
+The All-In-One Application and Website Blocker for Windows, Mac and Android
+Known
+Known is a simple platform for publishing words, pictures, podcasts and more to a site that you...
+Weebly
+Weebly is a freemium drag-and-drop website builder.
+Quire
+Unfold Your Ideas
+Task Coach
+Task Coach is a simple open source todo manager to keep track of personal tasks and todo lists.
+Temptation Blocker
+Temptation Blocker is a program that lets you lock yourself out of specific applications for a...
+Time Sink
+Time Sink helps you track how you spend your time on your Mac.
+Tomatoid
+R2V
+Advanced raster to vector conversion software for automated map digitizing, GIS data capture and...
+Persevy
+Persevy helps you achieve your goals by delimiting them into manageable time-periods so you can...
+CYPE 3D
+Power, efficiency and productivity for steel, timber, aluminium and concrete structures
+MeisterTask
+MeisterTask is the most intuitive task management and collaboration tool on the web.
+Focus.py
+Focus.py helps you keep focused by applying schedulable firewall rules to distracting websites.
+Path
+Path is a personal social network designed to help you be closer with family and friends.
+Anchor CMS
+Free and lightweight blogging system
+SiteKit
+EssentialPIM
+EssentialPIM lets you manage appointments, tasks, notes, contacts, password entries and email...
+Install-Block
+Install-Block allows you to require a password in order for new software to be installed on your PC.
+Chrometa
+Automatically track your computer usage and use captured data to fill time sheets, compile billable...
+MyTetra
+MyTetra is open source and cross platform personal manager for information accumulation.
+Vectorizer.io
+Online Vectorizer: Online raster to vector converter.
+Timerdoro
+A simple timer for pomodoro, eye strain, GTD, working out, and just about anything else!
+TeamViz Lite
+Restyaboard
+Open source Trello-like kanban board. Based on Restya platform.
+Libertree
+Libertree is free, libre, open-source software which is intended to provide a way for people to...
+TaskBoard
+A Kanban-inspired app for keeping track of things that need to get done.
+ZeroBlog
+Blogs maker on Zeronet , a distributed network
+BaseKit
+The most partner friendly site builder, available in 15 languages.
+Pomodoro One
+Pomodoro One is a dead simple application for increasing personal productivity using Pomodoro...
+Deep Freeze
+Deep Freeze Reboot Restore Software prevents any changes made on your system making PCs...
+Joplin
+Joplin is a free, open source note taking and to-do application, which can handle a large number of...
+Habitica
+Habitica is a free habit building and productivity app that treats your real life like a game.
+Gnome Pomodoro
+This GNOME app helps to manage time according to Pomodoro Technique.
+Timesheet
+TimeSheet is an application that will automatically record the time spend on projects and tasks for...
+Photo4Tune
+Photo4tune is a free application that provides a simple way to capture and share the best moments...
+Yammer
+Pomotodo
+Todo-list based on Pomodoro technique.
+ActionAlly
+Use pomodoro-style work sessions to focus for specific periods of time.
+Websites for Trello
+Trello as the CMS powering your blog.
+Mobirise
+Create cutting-edge, beautiful websites that look amazing on any devices and browsers.
+COMODO Internet Security
+Comodo Internet Security is a free, very voluminous and multi-layered security application that...
+KOMPAS-3D
+KOMPAS-3D is for creating three-dimensional associative models for individual parts and...
+The Fabulous
+Routine and habit development app.
+Leanote
+Leanote provides services for note and blog.
+Postbox
+The Power Email App for busy professionals, like you.

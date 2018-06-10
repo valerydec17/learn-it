@@ -18,8 +18,10 @@ class TutsplusItem(scrapy.Item):
 class AlternativetoItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
-    title = scrapy.Field()
-    likes = scrapy.Field()
+
+    atitle = scrapy.Field()
     shortDescription = scrapy.Field()
-    description = scrapy.Field()
-    officialSite = scrapy.Field()
+
+    # description = scrapy.Field()
+    # likes = scrapy.Field()
+    # officialSite = scrapy.Field()

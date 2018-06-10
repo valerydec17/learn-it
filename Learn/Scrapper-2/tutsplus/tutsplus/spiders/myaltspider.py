@@ -4,7 +4,6 @@ from tutsplus.items import AlternativetoItem
 from scrapy.http    import Request
 import re
 import os
-
 import pdb
 
 crawledLinks = []
@@ -39,25 +38,16 @@ class MySpider(Spider):
 
 		print str_title, str_shortDescription
 
-
 		item = AlternativetoItem()
 		# if statements should be put here
-		item["title"] = str_title.strip()
+
+
+		item["atitle"] = str_title.strip()
 		item["shortDescription"] = str_shortDescription.strip()
-
-		# os.system('echo Hi >> items.txt')
-		os.system('echo ' + str_title.strip() + ' >> items.txt')
-		os.system('echo ' + str_shortDescription.strip() + ' >> items.txt')
-
 		# pdb.set_trace()
 
-
-		item["title"] = "6"
-		item["likes"] =  "5"
-		item["shortDescription"] = "4"
-		item["description"] = "3"
-		item["officialSite"] = "1"
-
+		os.system('echo ' + str_title.strip() + ' >> items.txt')
+		os.system('echo ' + str_shortDescription.strip() + ' >> items.txt')
 
 
 		# Parse links
@@ -78,18 +68,6 @@ class MySpider(Spider):
 			# crawledLinks.append(link)
 			yield Request(link, self.parse)
 
-
-
-
-
-# /html/body/form/section/div[2]/header/div[1]/div/h1     - title
-
-# /html/body/form/section/div[2]/header/div[1]/div/div/div[2]/span   -   likes
-
-# /html/body/form/section/div[2]/div[1]/div[1]/div/span      --  description
-
-# /html/body/form/section/div[2]/header/div[1]/div/p  - short description
-
-# /html/body/form/section/div[2]/div[3]/div[1]/div/a[2]  - official site
+		yield item 
 
 
