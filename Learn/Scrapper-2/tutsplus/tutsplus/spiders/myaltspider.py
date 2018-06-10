@@ -33,6 +33,7 @@ class MySpider(Spider):
 		item = AlternativetoItem()
 		# if statements should be put here
 
+		# Grabs the loaded page for desirable items and perks.
 		try:
 			str_title = response.xpath('/html/body/form/section/div[2]/header/div[1]/div/h1/text()').extract()[0]
 			str_shortDescription = response.xpath('/html/body/form/section/div[2]/header/div[1]/div/p/text()').extract()[0]
@@ -71,6 +72,8 @@ class MySpider(Spider):
 			# crawledLinks.append(link)
 			yield Request(link, self.parse)
 
-		yield item 
+		# Avoids blanket lines in the output. Which for some reasons can occur.  	
+		if len(item["atitle"]) > 0:
+			yield item 
 
 

@@ -1,0 +1,1050 @@
+
+
+GitLab
+GitLab is a on-premise or hosted Git repository management tool.
+GitHub
+GitHub is a web-based Git repository hosting service.
+YouTube
+YouTube is a video-sharing website that allows users to upload, view, and share videos.
+MyHeritage
+MyHeritage is a family-oriented social network service and genealogy website.
+Google Chrome
+A web browser built for speed, stability and security.
+Facebook Alternatives
+
+VLC Media Player
+VLC is a free and open source cross-platform multimedia player and framework.
+Adobe Acrobat Reader DC
+PDF Reader, PDF Viewer
+Autodesk AutoCAD
+Microsoft Office Suite
+Microsoft Office is an office suite of applications, servers and services.
+Microsoft Office Word
+Microsoft Word is a commercial word document processor for Windows.
+Adobe Photoshop
+Photoshop is a professional image editor and the de-facto industry standard.
+Adobe Acrobat DC
+Adobe Acrobat is a family of application software and web services developed by Adobe Systems to...
+GNU patch
+Patch takes a patch file containing a difference listing produced by the diff program and applies...
+Adobe Premiere Pro
+GeneWeb
+GeneWeb is a genealogy software program with a Web interface.
+hike messenger
+Used for chatting, updating status, photos, sharing media like WhatsApp, WeChat, LINE etc.
+Telegram
+Buddy
+One-click delivery automation for web developers.
+Documents To Go
+Create, view and edit native Microsoft Word, Excel and PowerPoint files
+Byword
+The easy way to write Markdown and rich text on your Mac and iDevices
+GIMP
+GIMP is a free program for such photo retouching, image composition and image authoring.
+Open CASCADE
+Open CASCADE Technology is a software development platform freely available in open source.
+X Cloud
+X Cloud, much more than a superior, secure cloud storage service. X Cloud is excitement, ambition.
+Adobe Illustrator CC
+Adobe Illustrator CC is a commercial vector graphics editor.
+PdfMod
+PDF Mod is a simple application for modifying PDF documents.
+TeamViewer
+TeamViewer lets you establish a connection to any PC or server within just a few seconds.
+Xodo
+Sourcegraph
+Sourcegraph is a free, self-hosted code search and intelligence server that helps developers find...
+Nevron Writer
+Nevron Writer is a powerful word processor that can be used for any purpose - from writing a simple...
+PDFTK Builder
+PDFTK Builder is a free graphical interface to for PDFTK, making it much easier to use.
+Messenger Lite
+Messenger Lite is a fast and data-efficient messaging app to reach the people in your life.
+ReText
+Simple text editor for Markdown and reStructuredText documents.
+GIMPshop
+GIMPshop is essentially Gimp with some cosmetic changes.
+Reunion
+Reunion is a genealogy software program for the Macintosh
+S4
+S4 = Simple Secure Storage Service.
+TightVNC
+TightVNC is a free remote control software package.
+Karbon
+Karbon is the scalable vector drawing application in KDE.
+Wide Angle PDF Converter
+Convert PDF documents to Word, PowerPoint, Excel, JPG and other formats!
+PDF Chain
+PDF Chain is a GUI for pdftk written with gtkmm.
+LiteManager
+LiteManager - fast and secure remote administration software for Computer.
+Octotree
+Browser extension to display GitHub code in tree format.
+Junko
+Junko is a PDF tool developed for quicker and more efficient access to information needed from your...
+Precision Plan Pro
+Welcome home! Advanced digital takeoff and PDF solution by Precision Plan Pro.
+Instantbird
+Instantbird is an instant messaging client based on Mozilla XULRunner and the open source library...
+Adobe Photoshop Express
+Edit, share, and upload photos on-the-go, or access your entire online photo library with a...
+OpenGrok
+OpenGrok is a source code search and cross reference engine.
+Adium
+Adium is a free and open source instant messaging application for Mac OS X, written using Mac OS Xs...
+rdesktop
+rdesktop is an open source client for Windows Terminal Services, capable of natively speaking...
+Muonium
+Muonium is a fully open source, encrypted, and democratic cloud.
+Insight.io
+Best web-based IDE-like source code browsing and search tool
+PDF Merge tool
+PDF Merge Tool is a simple, fast and easy tool for merging PDF files. It runs on the .
+Nuance Power PDF
+FireAlpaca
+FireAlpaca is the image editor that can be used readily and easily.
+Serif Drawplus
+Serif DrawPlus is the affordable, all-in-one, creative powerhouse for drawing, sketching, painting...
+PDF Cutter
+PDF Cutter is a free PDF document splitting software, it can help you to quickly split PDF files.
+Gajim
+Full featured and easy to use Jabber client
+PSPad
+Text, code and hex editor.
+Sync.com
+Sync makes it easy to store, share and access your files from everywhere - your privacy guaranteed.
+OctoLinker
+OctoLinker is a browser extension for Chrome, Firefox and Opera which allows you to navigate...
+Caprine
+Unofficial Facebook Messenger app.
+FoxyUtils Online PDF Tools
+This service enables you to combine PDF documents into a single one, free of charge.
+GrepCode
+GrepCode.com is a code search engine built by developers for developers to search and browse open...
+pCon.planner
+The professional furnishing 2D-/3D-tool for everybody:
+Autodesk SketchBook Designer
+AbleWord
+AbleWord is a very capable word processing application that can read and write most popular...
+Autodesk SketchBook
+Autodesk Sketchbook drawing software features an artist-friendly, gesture-based user interface that...
+PDFMerge
+PDF Split and Merge tool is implemented using the PdfSharp library and is either GUI or command...
+4Shared
+4Shared is a large online storage facility where Internet users store their text, audio, video...
+DameWare
+The DameWare NT Utilities software is an enterprise systems management application containing an...
+ManageYum
+One desktop app for many apps, included Gmail, Inbox, Skype, Facebook Messenger, but also...
+Spark
+Spark is an Open Source, cross-platform IM client optimized for businesses and organizations.
+Aptana Studio
+Aptana Studio is a complete web development environment that combines powerful authoring tools with...
+Qoppa PDF Studio
+Create, Review and Edit PDF Documents on Windows, Mac OS X, and Linux
+Yandex.Disk
+Digsby
+Digsby is a multiprotocol IM client that lets you chat with all your friends on AIM, MSN, Yahoo...
+Bluebeam Revu
+Bluebeam Revu delivers award-winning PDF creation, editing, markup and collaboration technology to...
+Graphite
+Graphite is an easy to use precision 2D/3D CAD software for product design and development.
+Gimp Paint Studio
+Mayura Draw
+Mayura Draw is a vector-based drawing program.
+Fidus Writer
+Fidus Writer is an online collaborative LaTeX editor especially made for academics who need to use...
+Wayk Now
+Instant remote support and remote desktop.
+One Chat - All in one Messenger
+One messenger for existing platforms
+Ayttm
+
+
+iMessage
+Say hello to the only messaging app you need.
+Adobe Dreamweaver
+Adobe Dreamweaver is a proprietary web development tool developed by Adobe Systems.
+PhpStorm
+Enjoy productive PHP and web development with PhpStorm.
+Compare It!
+Seashore
+Seashore is an open source image editor for Mac OS Xs Cocoa framework.
+Windows Live - Sync
+DiffPDF
+DiffPDF can compare two PDF files. It offers two comparison modes: Text and Appearance.
+SeaMonkey
+The SeaMonkey project is a community effort to develop the SeaMonkey all-in-one internet...
+Metacafe
+One of the worlds largest video sites, serving the best videos, funniest movies and clips.
+ShareLaTeX
+A web-based collaborative LaTeX editor.
+appear.in
+Video conversations with up to 8 people in your browser - no downloads, no login.
+Kaseya Solution
+Automated IT Management Software and Network Management Software Solutions for IT Departments and...
+PDF Reader
+PDF Reader is the one app you can rely on when you need a portable solution to work with PDFs.
+Xabber
+Bluefish Editor
+Bluefish is a powerful editor targeted towards programmers and webdesigners, with many options to...
+WinMerge
+WinMerge is an open source differencing and merging tool for Windows.
+Diff Checker
+Diff Checker is a free online diff tool that quickly and easily gives you the text differences...
+Allway Sync
+Allway Sync is a file and folder synchronization software for Windows.
+Splashtop Remote Support
+Falkon
+Falkon, formerly QupZilla, is a QtWebEngine based cross-platform web browser.
+Artweaver
+Artweaver is a simple Freeware program for creative painting, i.e.
+Latex to PDF
+Latex to PDF Online. Convert Latex files to PDF files for free!
+Codase
+Codase is the leading source code search company with advanced source code understanding and xml...
+mergely
+Merge is an online merge and diff tool that allows you to share and save your documents.
+InvGate Assets
+Assets is a suite of intelligent solutions to manage your hardware and software assets, through...
+OTRS ITSM
+OTRS ITSM is a fundamental solution for IT Service Management organizations.
+VideoMeeting
+VideoMeeting is a free and open source video conference solution built to have video calls and...
+Meld
+Meld is a visual diff and merge tool.
+OpenDrive
+OpenDrive is a remote drive for your computer, that allows you to store, sync, share, link, sell...
+rsync
+rsync is a software application for Unix which synchronizes files and directories from one location...
+KompoZer
+Easy Web Authoring!
+Toucan
+Toucan is a small portableapp utility allowing you to synchronise, backup and secure your data with...
+Kompare
+KDE GUI for diff
+Threema
+A secure, end-to-end encrypted Swiss instant messenger with a focus on privacy.
+DirSync Pro
+BBEdit
+A HTML and plain text editor intended for software development.
+Create Synchronicity
+Create Synchronicity is a nice, lightweight backup program with a very user-friendly - yet powerful...
+grsync
+Grsync is a rsync gui, a graphical user interface for the rsync file synchronization and backup...
+Mattermost
+Mattermost is an open source alternative to Slack.
+Lansweeper Network Inventory
+Lansweeper discovers Windows, Linux and Mac machines in your network.
+Slack
+Slack brings all your communication together in one place.
+Synology Cloud Station
+Cloud Station synchronizes data across all your devices, such as computers, mobile devices, or...
+WYSIWYG Web Builder
+Acronis True Image
+Back In Time
+Back In Time is a simple backup tool for Linux inspired from ...
+FileMenu Tools
+Zent.io
+Zent.io is a Contact Center Cloud Software Multichannel that unify chat, phone and e-mail.
+Bit Chat
+TextWrangler
+Mumble
+Mumble is an open source, low-latency, high quality voice chat software primarily intended for use...
+openITCOCKPIT
+Easy to use configuration web interface for nagios and neamon.
+Areca Backup
+Areca Backup is a file backup software that supports incremental, image and delta backup on local...
+Flock
+Flock is the fastest growing team messenger and loved by over 25,000 companies globally.
+Gitter
+Gitter is a chat and collaboration tool for developers and users.
+Briar
+An open-source decentralized and encrypted messaging app even without internet connection via Wi-Fi...
+fluxday
+Duplicacy
+Duplicacy is a new generation local and cloud backup tool that supports cross-computer...
+FilerFrog
+FilerFrog helps you perform your every day file manipulation actions easily and efficiently
+RetroShare
+RetroShare is a open source cross-platform, private and secure decentralized communication system.
+Text compare!
+Text compare! is a online diff tool that allows you to easily spot the differences between to texts.
+TweakStyle
+An IDE tailor-made for web design and frontend development
+Dropsync
+DropSync is a super fast and flexible folder synchronization tool.
+Cacti
+Cacti is a complete frontend to RRDTool, it stores all of the necessary information to create...
+Pandora FMS
+Enterprise-ready monitoring solution that provides unparalleled flexibility for IT to address both...
+Ryver
+Ryver provides all of your team communications in one place: chats, posts, and files.
+Grape
+Mini WA+
+Custom Patch for Whatsapp
+Lammer Context Menu
+Lammer Context Menu is an extension for Microsoft Windows Explorer with very handy features like:
+Bacula
+Comodo Time Machine
+WASTE
+WASTE is a peer-to-peer and friend-to-friend protocol and software application that features...
+Torchat
+TorChat is a peer to peer instant messenger with a completely decentralized design, built on top of...
+aMule
+aMule is a free peer-to-peer file sharing application that works with the EDonkey network and the...
+Truck - Rsync Client
+An SSH browser with an rsync transfer engine. It lets you point-and-click to rsync.
+Sensu Core
+The open source monitoring framework.
+Fleep
+Fleep is a messenger for your teams and projects.
+Opsview Atom
+Opsview Atom is ideal for personal use, SoHo setups, test or lab environments or just to get your...
+FCorp Context Menu Manager
+Context Menu Manager is a collection of utilities bent on providing the necessary means to...
+BackupPC
+BackupPC is a high-performance, enterprise-grade system for backing up Linux, WinXX and MacOSX PCs...
+FarStone RestoreIT
+SolarWinds Netflow Traffic Analyzer
+SolarWinds NetFlow Traffic Analyzer is a network traffic analyzer product for Cisco NetFlow...
+Echoplexus
+Echoplexus is an anonymous, web-based, IRC-like chatting platform that makes its best effort to...
+Acqlite
+Acqlite is Gnutella file sharing program based on LimeWire, Acquisition and Cabos.
+Forklift
+Dual pane file manager and SFTP/FTP client for Mac OS X
+amon
+Self-hosted server and app monitoring tool
+Usenet.net
+Usenet.net has been a trusted Usenet provider since 2004 offering a choice of unlimited Usenet...
+ANts P2P
+ANts P2P realizes a third generation P2P net.
+ContextEdit
+Download ContextEdit - Lets you control which items appear on your windows context menu.
+nload
+Monitor network traffic and bandwidth usage in real time
+New Relic
+Pinpoint and solve performance issues in your Ruby, Java, .
+Safestore
+A lightweight, high performance enterprise solution with backup, rotation, and restoration...
+Wasabi
+OFF System
+Far Manager
+Far Manager is a program for managing files and archives in Windows operating systems.
+Idera
+Idera, formerly CopperEgg, is an all-in-one software-as-a-service designed and priced to ensure...
+BlockNews.Net
+Simple Usenet Provider with block access.
+jTorchat
+jTorchat stands for Java Torchat, and is a complete rewrite of the popular p2p IM messenger Torchat
+Calypso
+Calypso, formerly Kommute, is a cross platfrom file sharing client using the anonymous network MUTE.
+NetFlow Analyzer
+Get the best combination of ANALYSIS + CONTROL
+SyWatchdog
+sys_watchdog keeps your *NIX servers green by performing periodic checks, service restarts and...
+
+
+Airbrake
+Airbrake collects errors generated by other applications, and aggregates the results for review.
+KeepVault
+KeepVault features real-time backup to safe and secure online servers AND also, on Windows systems...
+BackupChain Backup Software
+BackupChain Backup Software backs up your system, virtual machines, and databases while running.
+Explorer++
+Explorer++ is a free file manager for Windows.
+Google Tasks
+to-do list app that integrates with Gmail and Google Calendar
+RapidSpike
+RapidSpike is an uptime and performance monitoring service for websites and web applications.
+Nicotine
+SoulSeek client written in Python which uses the PyGTK2 toolkit
+Dotcom-Monitor
+Andrisoft WanGuard
+DDoS detection and mitigation software that supports packet processing, NetFlow, Sflow, IPFix, RTBH...
+Nfsen
+NfSen is a graphical web based front end for the nfdump netflow tools that allows you to:
+Marco Polo Video Walkie Talkie
+Messaging app with integrated video and text to help you keep in touch all the time.
+Errbit
+Errbit is a tool for collecting and managing errors from other applications.
+ShellNewSettings
+Easily remove New items in Windows Explorer menu.
+CoScale
+Full stack monitoring of containers and microservices. Powered by anomaly detection.
+Adrive
+Clover
+Wings for your Windows Explorer!
+Toodledo
+TeamSpeak
+TeamSpeak is a proprietary Voice over IP software that allows users to speak on a chat channel with...
+UptimeRobot
+Dashboard with 50 Monitors, Checked Every 5 Minutes, Totally Free.
+Binary Canary
+Website monitoring service that offers a comprehensive free plan with:
+Monitoshi
+Website uptime monitoring. Be notified by email when your site is down.
+Port Monitor
+Port Monitor is an easy and online tool that does website and server monitoring for you 24/7 every...
+Dasher Messenger
+GetSiteControl
+Online surveys, opt-in forms, live chats, contact forms, website notifications, follow and share...
+Apteligent
+AppOptics
+Application performance management and infrastructure monitoring.
+FolderViewer
+File manager with multitabs and windows split features
+TrackJS
+JavaScript Error Monitoring for Production Web Applications
+ShadowProtect
+Disk image backup.
+AppPerfect Agentless Monitor
+A new generation tool for agentless monitoring
+Quire
+Unfold Your Ideas
+TeamTalk
+TeamTalk 4 is a conferencing system which enables a group of people to collaborate and share...
+Is It Down Right Now?
+Is It Down Right Now monitors the status of your favorite web sites and checks whether...
+Site monitoring
+Free open-source website monitoring software, easy to set up and use for monitoring web sites.
+SynTraffic
+Monitor your websites and APIs from multiple locations around the world and get notified by smart...
+Wufoo
+Online form builder with cloud storage database
+Doctor Dump
+Doctor Dump is a free crash reporting and memory dump analyzing service.
+Makitoo
+Bug Handling for Android Applications - Catch and manage every exception in real time in a single...
+Webcron
+Webcron offers website uptime monitoring, plus the possibility of setting up and running cron jobs.
+Pingbreak
+Pingbreak is an original and free monitoring service.
+Free Backup solution without scheduling or automatical cleanup of backups in Free Edition.
+Site Down
+Site down outage and downtime reports from SiteDown.co
+Wasabi Hot Storage
+Mohawk Voice
+Mohawk Voice is a low resource, high quality VoIP program which is free to download and use.
+Exceptionless
+OpenVPN
+OpenVPN is a full-featured open source SSL VPN solution that accommodates a wide range of...
+Uptime Web
+Formata
+WinCrashReport
+WinCrashReport provides an alternative to the built-in crash reporting program of Windows operating...
+Statuspage.io
+Status and incident communication tool for your online services
+DeferPanic
+Go application monitoring. Production performance graphs, alerts, error report collection.
+DareBoost
+DareBoost is an online tool to test, analyze and monitor your website: speed, SEO, quality...
+Drive SnapShot
+A fast and inexpensive imaging tool. Very simple yet powerful, following the KISS methodology.
+DriveImage XML
+DriveImage XML is a reliable program for easy imaging and backing up partitions and logical drives.
+FOG Project
+FOG is a free open-source cloning/imaging solution/rescue suite. A alt.
+intoDNS
+IntoDNS checks the health and configuration and provides DNS report and mail servers report.
+Yeller
+Yeller is an exception tracker for Clojure, Ruby, Rails, Java, JavaScript, Go, Haskell and Node.js.
+BoardingBot
+Facebook Chatbot which sends TestFlight invitations
+Google Lighthouse
+Lighthouse is an open-source, automated tool for improving the quality of web pages.
+Enalyzer
+Enalyzer is a survey and report web app with powerful features in a simple, functional form.
+AWS CloudWatch
+Amazon CloudWatch is a monitoring service for AWS cloud resources and the applications running on...
+KnownOutage
+Quickly and easily alert people when there is an issue or outage with your service.
+SitePerformanceTest.com
+Website Performance and Usability Test
+Prevent data loss easily and securely!
+ZeroTier One
+Extremely simple P2P Encrypted VPN
+DNSDataView
+This utility is a GUI alternative to the NSLookup tool that comes with Windows operating system.
+Gotcha.io
+Seagate DiskWizard
+Based on Acronis True image with limited functionality.
+ArgusQ
+ArgusQ performs spec reviews for product management organizations to identify critical issues in...
+EaseUS Partition Master
+Free edition cannot convert dynamic disk to basic disk!
+DNSsy
+Provides a comprehensive test and report on the health of your DNS.
+SurveyJS
+Feature rich and open source surveys for embedding into websites.
+eStatus.io
+Status page and incident communication platform.
+WireGuard
+Fast, Modern, Secure VPN Tunnel
+Wavefront by VMware
+Wavefront is an enterprise-class metrics monitoring and real-time analytics service that lets you...
+Crier.io
+Status pages and notifications
+Wirelends
+Its a VPN. Via someones device!
+OpenVPN Finder
+Radmin VPN
+Checkbot
+TestLauncher
+TestLauncher provides crowdsourced QA and managed dedicated QA teams 24/7.
+Krypton Pulse
+Krypton Pulse provides free status dashboards so you can keep your end-users up to date with...
+GNU fdisk
+fdisk is a command-line utility that provides disk partitioning functions.
+LambStatus
+Serverless status page system which enables you to build a status page with minimum effort and cost!
+PageStat.us
+A simple tool that checks whether or not a website is down.
+SnapRunner
+snaprunner is a wrapper script in Python which adds some functionality to ...
+Stackdriver
+Full-stack intelligent monitoring of infrastructure, system and apps running in Amazon Web Services...
+Freegate
+Freegate is an anti-censorship software for secure and fast Internet access.
+VyprVPN
+VyprVPN makes reclaiming your online privacy, security, and freedom as simple as tapping to connect.
+Active@ Partition Manager
+You may create, delete, format and name partitions on your computer without shutting down the...
+P2PVPN
+Evolve
+Evolve is a desktop app and community for serious gamers.
+Haguichi
+Haguichi provides a graphical frontend for LogMeIn Hamachi on Linux.
+NeoRouter
+NeoRouter is the next generation router that helps you manage and connect to all your computers...
+Diskpart
+diskpart is a command-line hard disk partitioning utility included in versions of the Windows NT...
+Feedback Cat
+A free and open source onpage survey/feedback tool for WordPress.
+Mullvad
+Staytus
+Private Internet Access
+VPN Service encrypts your connection and provides you with an anonymous IP to protect your privacy.
+S3Log
+Delivering hourly S3 log file analysis.
+Indietests
+AOMEI Backupper
+Free Backup-App: supports dynamic disks, no command-line-backups, no cleanup of backups.
+Host-Tracker
+Website uptime monitoring service
+Wippien
+VPN P2P easy install, file sharing and accessing to virtual LAN.
+Domotz
+Monitoring and Tech Assistance system by mobile app with free trial.
+Net Meeting
+Net Meeting provides a free solution for web conferencing, audio and video conferencing.
+LoiLo Game Recorder
+LoiLo Game Recorder is a completely free, fast, simple and very effective videogame recorder.
+Fraps
+Fraps is a universal Windows application that can be used with games using DirectX or OpenGL...
+Qualaroo
+With a small snippet of code, Qualaroo makes it possible to target prompts by user behavior...
+SurveySparrow
+SurveySparrow lets you turn surveys into conversations.
+Macrorit Disk Partition Expert
+Macrorit Disk Partition Expert Free Edition is powerful free partition software allows you to...
+Screen Recorder
+Screen Recorder is a free open-source screen recorder software for Windows environment, records...
+Eassos System Restore
+Easy-to-use software for system backup, disaster recovery and data protection
+Altarsoft Safe Backup
+Backup and restore files and folders easily. Set compression level and restore mode.
+anonymoX
+Ashampoo Backup Pro
+Ashampoo Backup Pro is a full featured backup solution for Windows.
+Ultimate Gamepad
+Use your mobile device as a gaming controller for your computer.
+Terminals
+Terminals is a secure, multi tab terminal services/remote desktop client.
+gpart
+Gpart is a tool which tries to guess the primary partition table of a PC-type hard disk in case the...
+idea.informer
+Idea Informer is a idea forum similar to uservoice or getsatisfaction.
+Logstatic
+Logstatic is an easy-to-use, yet powerful Log Analyzer.
+Loom
+Quick video-capture straight from the browser.
+Peek GIF Screen Recorder for Linux
+Simple animated Gif screen recorder for Linux. Open-source.
+Z-DBackup
+Z-DBackup is a modular backup system which can copy complex data sets quickly, easily and reliably...
+UserEcho
+UserEcho gives you the opportunity to create a modern Community to support customers in a few...
+Plays.TV
+Plays.TV is a background video recording software.
+recordMyDesktop
+recordMyDesktop is a desktop session recorder for GNU / Linux that attemps to be easy to use, yet...
+ShareX
+ShareX is a free and open source program that lets you capture or record any area of your screen...
+TestingCatalog
+TestingCatalog is a community of makers and early adopters showcasing their apps and exchanging...
+Browsec
+Encrypts your traffic. Allows to open blocked websites.
+ASG-Remote Desktop
+Deliver Secure Remote Access to Servers and Workstations in Real Time
+Neurovation.net
+Neurovation.net is an idea platform that enables you to individually or collectively create, manage...
+Heeduser
+eeduser is the customer engagement platform that helps companies build better relationships with...
+NordVPN
+FullControl
+FullControl is a fun, and easy-to-use app that turns your iPhone or iPad into a remote control.
+JuiceSSH
+The all in one terminal client for Android including SSH, Local Shell, Mosh and Telnet support.
+Gifox
+Delightful GIF Recording and Sharing App for macOS
+FBackup
+FBackup is a free backup software for both personal and commercial use.
+Erli Bird
+PHPBack
+Open source customer feedback software
+XSplit Gamecaster
+Screencast Capture Lite
+Capture your screen into high-quality videos.
+ScreenCloud
+ScreenCloud is an easy to use screenshot sharing application.
+Flamory
+Make snapshots of web pages, files and desktop apps.
+Feedback Lite
+Feedback Lite is the easiest way to gain valuable insights into what your customers are really...
+Bitvise SSH Client
+SSH client for file transfer, terminal and tunneling.
+Remotely control X11 via SSH commands generated by your phone or tablet.
+tilda
+Drop down terminal, like Guake.
+GifCapture
+Open-source GIF capture utility for Mac.
+Feedbackify
+Adds a Feedback tab to your website.
+ScreenFlow
+Capture the contents of your entire desktop at the same time as your video camera, microphone and...
+Product Pains
+Giving users a louder voice to help teams build better products.
+Gamecaster
+Gamecaster is a graphical user interface for open source framework glc.
+BetaBound
+Betabound is a place for people who want a hand in the next big thing in technology.
+SnapCrab
+SnapCrab is a photo capture software that can capture any part of your screen.
+Zoho Survey
+Easily create professional surveys. Gather opinions, analyze data and make smarter decisions.
+Feature Upvote
+Let customers suggest and upvote improvements and new features.
+Copywhiz
+Copywhiz will drastically speed up your file copying and automatic backup tasks in Windows.
+iTerm
+iTerm is a full featured terminal emulation program written for OS X using Cocoa.
+Papaly
+Papaly is a simple social bookmarking tool to manage all your links.
+RenegadeWorks
+RenegadeWorks is an easy-to-use application to keep customers engaged and bring new business
+Screencast-O-Matic
+Free version Records up to 15 minutes, premium is /year.
+Glisser
+Eloquant
+ELOQUANT provide a comprehensive software solution that can manage interactions and feedback while...
+Brimir
+Brimir is an open source helpdesk system.
+Journey Surveys
+Online surveys the way they should be: simple, flexible, and hassle-free.
+Stjerm
+WinSnap
+WinSnap is a small enhancement utility for taking and editing screenshots.
+Tender Support
+Tender Support organizes your customer care so you can focus on delivering the best service...
+Lightstream
+Powerful, cloud-based live streaming studio.
+Tilix
+A tiling terminal emulator for Linux using GTK+ 3.
+XCOPY
+XCOPY is a command used on PC DOS, MS-DOS, OS/2, Microsoft Windows, and related operating systems...
+Bookmark Manager
+Chrome Bookmarks and the Bookmarks Manager are now more powerful by incorporating the smarts of...
+Referly
+Referly is all-in-one referral marketing software that enables e-commerce merchants to easily set...
+Icecream Screen Recorder
+Icecream Screen recorder is a screen recorder that can both record screen and take screenshots.
+Desk.com
+Desk.com lets you see all your customers in one place and engage them across all your support...
+Directly
+On-demand Customer Service Apps.
+CheckMarket
+CheckMarket is an enterprise web-based survey tool.
+Windows Quake Style Console
+FireShot
+Capture web page screenshots in Firefox, Chrome, or IE, and then edit and save them.
+VisionProject
+Web based software for project management, issue tracking, collaboration, team calendar, kanban...
+CamTwist
+CamTwist is a software package that lets you add special effects to your video chats.
+GSCopyPro
+GuruSquad, LLC seeks to provide useful, effective and realistic solutions to its clients by...
+UpViral
+Viral marketing campaign tool
+Annex Cloud
+Reward customers for completing traditional actions such as purchasing, as well as for taking...
+SemanticScuttle
+SemanticScuttle is a self-hosted and web-based social bookmarking tool experimenting with new...
+yeahconsole
+YeahConsole turns an xterm into a gamelike console.
+PuTTY Tray
+PuTTY Tray is an improved version of PuTTY.
+DeskPRO
+DeskPRO is the modern helpdesk platform.
+SuiteCRM
+Snipaste
+Snipaste is a simple but powerful snipping tool, and also allows you to pin the screenshot back...
+Pantheon Terminal
+The terminal of the 21st century.
+WinGuake
+A Windows-oriented version of the popular Guake Terminal for Linux.
+Piazza
+ManyCam
+ManyCam allows you to use your webcam, TV tuner, or any other video source with multiple...
+RichCopy
+Trust me when I tell you, this is the answer to all your file copying needs.
+Extole
+mrxvt
+Based on rxvt. Tabbed interface. Very lightweight. Few dependencies.
+GanttProject
+Project scheduling and management tool
+Campaigned
+Campaigned is referral program software for small businesses helping them run effective marketing...
+Pipedrive
+Pipedrive is a powerful sales pipeline management tool.
+Maian Support
+Free responsive PHP Helpdesk System
+Core Tunnel
+Core Tunnel is the best way to manage your SSH tunnels, with OS X Keychain integration.
+Prulu
+Webcam Toy
+Over 80 fun effects and filters to use with your web camera
+PerigeeCopy
+AppVirality
+Zoho CRM
+ProjectLibre
+ProjectLibre is a Java-based project management solution that gives Microsoft Project a run for its...
+ClockingIT
+TeamWox
+TeamWox is a groupware system designed to optimize the business management.
+Windows Command Prompt
+The Windows built-in command prompt. Found in Windows NT 4.0 and later.
+Streak CRM
+Amazing CRM on top of Gmail
+Gadwin PrintScreen
+Captures the contents of the screen with a single keystroke.
+Request Tracker
+open-source enterprise grade issue and ticket tracking system
+Photo Mirror
+Take photos with your webcam, record videos, create GIF animations, add effects and masks.
+MiniCopier
+MiniCopier is a multi-platform graphical copy manager.
+WORKetc CRM
+The one app for managing your entire business from end to end - from CRM and sales to projects...
+TIEMCHART
+online project management software
+Redbooth
+task and project management software
+LinkBoard
+TCC/LE
+TCC/LE is a complete CMD replacement, and is compatible with your existing Windows command prompt...
+Microsoft Dynamics
+Mailbutler
+Mailbutler adds lacking functionality to email clients and increases your productivity
+Tunnel Manager
+Tunnel Manager allows users to easily manage a configurable list of SSH tunnels and their required...
+Marker
+AutoPuTTY
+AutoPuTTY is a simple connection manager / launcher
+Front
+multi-channel inbox service for collaborative teams
+FileTargets
+FileTargets menu is similar to the standard SendTo function in the context menu but is...
+Photo and Video Mirror Editor
+Restyaboard
+Open source Trello-like kanban board. Based on Restya platform.
+INVITE REFERRALS
+Simplest Referral Marketing Software
+PyCmd
+PyCmd is a smart command prompt extension for Windows cmd.
+OrangeHRM
+FCorp Link Manager
+Link Manager is a tiny, easy to use Bookmark Manager specially designed to...
+MyEnTunnel
+SSH Shell
+Gmelius
+Gmelius makes your inbox instantly smarter and safer: Email Tracking, Shared Templates, Mail Merge...
+winio
+Work together. Peacefully.
+MailClark for Slack
+MirrorCreator
+Upload one file of 400 megs or less to multiple free file hosts -- 14 at most. 25 possible hosts.
+Wimi
+Wimi is the ultimate productivity tool.
+Quick Capture
+An extension of chrome browser which let you captures, annotate and save your browser screen.
+start.me
+A personal startpage and bookmark manager.
+RapidCopy
+RapidCopy is portable version of FastCopy.
+webERP
+webERP is a complete web based accounting/ERP system that requires only a web-browser and pdf...
+Instapaper
+Instapaper is a simple tool to save web pages for reading later.
+Compiere
+Compiere open source ERP software provides a modern, highly adaptable, low-cost ERP business...
+Doubletick
+DoubleTick is an Email Tracking for Gmail and GSuite, adds the double check marks to your mail if...
+Minmax
+Send engaging emails with instant scheduling, free unlimited email tracking, polls, and surveys...
+Upmirror
+Upmirror is a file mirroring website.
+SurfEasy VPN
+SurfEasy VPN encrypts all Internet traffic to protect your online privacy.
+AmoyShare Photo Collage Maker
+AmoyShare Photo Collage Maker is handy photos program designed to arrange our pictures into...
+PhotoTangler Collage Maker
+PhotoTangler Collage Maker is a unique image blending app that quickly turns photographs into...
+Collabshot
+Free web and desktop application that enables quick screen grabs, easy URL-based sharing, and live...
+Playfire
+Playfire is the global community for gamers.
+Mailcastr
+Mailcastr is an email tracker app for Gmail and Inbox which shows when your email is opened/read by...
+Vouchfor!
+Rewarding Referrals. Campaign Builder.
+Pastin
+Pastin is a private inbox to store your links.
+ProMIS.ONE
+ProMIS.ONE is a powerful project management information system that provides unlimited number of...
+inoERP
+inoERP is an open source php based enterprise management system.
+Laytr
+Laytr is the easiest way to defer emails.
+Backer
+Backup, synchronization and archiving for Windows 7 and 8
+All My Faves
+Intelliverse Email Tracker
+The Intelliverse Email Tracker application lets you know WHEN your email was opened, WHERE it was...
+FotoJet
+TinyTake
+Free 5 minutes recording and 2GB space and no youtube uploads, .95/year premium.
+Hamilton C shell
+Hamilton C shell is a clone of the Unix C shell and utilities for Microsoft Windows.
+GeoTrack
+Email Tracking, geolocation and scheduling right in Gmail.
+Magic Collage
+Magic Collage is an automatic and easy to use photo collage creator software that lets you to...
+FogBugz
+Fedena
+Fedena is an award winning, multipurpose school and campus management software which is used by...
+Stash.ai
+AI-powered, cross-device bookmarking
+Right Inbox
+Schedule Emails in Gmail To Be Sent Later
+Bumper
+Bumper is a stripped down version of FollowUpThen, followup.
+hledger
+Simple, precise, future-proof accounting for techies.
+DidTheyReadIt.com
+Free email tracking trial! Instantly track emails.
+Newton Mail
+Newton is a fully featured mail client available for Android, iOS, macOS and Windows.
+MailFred
+TailMail
+Free web content viewing and link clicking tracking service for the when, where, how often, etc.
+Klenty
+Klenty is a sales prospecting solution.
+GetNotify
+SAP Business Suite
+SAP Business Suite is a set of integrated business applications that help large or midsize...
+Pinterest
+NudgeMail
+Write or Forward any email to NudgeMail.
+snoozemail.com
+Send or forward email to N@snoozemail.com, e.g. 3@snoozemail.
+Skrooge
+Skrooge allows you to manage your personal finances, powered by KDE 4.x.
+CustomerBar
+Layout from Instagram
+Create fun layouts with your photos.
+Sylpheed
+SendRecurring
+Scheduled email and text reminders
+Airmail
+Airmail is a lightweight and lightning fast mail client for Mac.
+Leadberry
+Leadberry is a web based B2B lead generation software that converts website visitors to sales leads.
+PerformYard Sales CRM
+A CRM that actually helps you sell.
+PipelineDeals
+PipelineDeals is the easiest way for your sales team to organize your sales pipeline and grow your...
+Datananas
+Generate B2B leads from Outbound Sales without cold calling
+CalendarBudget
+The easiest way to track and forecast your wealth - using a calendar.
+DNDEmail
+Do not disturb for Gmail.
+ClickNotifi
+With ClickNotifi you get notified when the customer visits website from your email so you can call...
+Diptic
+Diptic is the easiest way to create beautiful photo collages and share them with friends.
+Canary Mail
+Gnuaccounting
+AeroLeads
+InsideSales.com
+Salestools.io
+Thrive for Email
+Sales automation directly in your email account.
+Pecunia
+Open Source HBCI Pin/TAN Online Banking Software.
+ReadNotify
+Email and document tracking service.
+Pocketsmith
+MyBizMailer
+Email marketing service from MyBizMailer.
+PicFrame
+PicFrame helps you combine multiple photos into amazing looking frames and share them with your...
+ZipBooks
+Free accounting software for small businesses - Free Online Invoice Generator with a built-in time...
+Polymail
+Interseller
+Deal Champ
+Deal Champ helps companies find B2B leads according to industry and location.
+PicFrame+
+Picframe+ is designed to be the mostintuitive, usefull and simple to use photo collager on the...
+Orca by Onesift
+Social selling automation.
+Goodbudget
+A home budget app based on the envelope budget system. Available on the web, Android, and iPhone.
+Smart Messenger
+Smart Messenger is a cost effective email marketing tool that delivers professional results...
+Remail.io
+Remail is a follow-up automation SaaS. Our mission is to connect you with the persons you need.
+MonkeyPeanuts.com
+Zuschneiden
+Using this intuitive tool, you can frame your pictures in seconds and share or save them...
+Concur
+Automated travel and expense management - your employees, travel managers and finance, too.
+Kamerge
+LeadGenius
+LeadGenius provides software that enables growing companies to quickly and easily launch and manage...
+Sprinx CRM
+Real-time CRM web application offering Free Edition and advanced modularity so you can pay just for...
+Cup of Data
+B2B predictive lead generation service.
+AND CO
+AND CO helps freelancers, entrepreneurs and other small businesses run their business smarter.
+Reply
+Sales automation software that puts your outreach on autopilot, while still making each...
+Sendy
+A self hosted newsletter application that lets you send trackable emails via Amazon Simple Email...
+Friendie
+Friendie is a CRM for personal use to keep track of your personal and professional network and take...
+Autoklose
+Autoklose is a well-rounded outbound sales platform.
+Money Plus Sunset Deluxe
+Money Plus Sunset Deluxe is designed to be a replacement for expired versions of Money Plus...
+Attach.io
+Attach is a sales enablement platform that helps you sell smarter by understanding how your...
+Time Recording
+Avaza
+EmailOctopus
+A hosted service for cheap email marketing via Amazon SES.
+HubSpot
+ChannelReply
+ChannelReply is a cloud-based SaaS connection for CRM software with eCommerce marketplaces.
+AWeber
+Email marketing and automation software used by over 100,000 small businesses, entrepreneurs and...
+Leadspace
+The Leadspace online solution finds targeted prospects for you from a multitude of information...
+Toshl
+Easy to use mobile expense tracker who saves to cloud and has amazing graphs and charts.
+Expensify
+Import expenses directly from a credit card to create free expense reports quickly.
+Trixi
+Shared todo lists and task management with no signup required
+GrowAmp
+TrackYourTime
+Cross-platform automated time tracker.
+MoneyWiz
+The cross-platform finance app with sync. For Windows, Mac, iOS and Android.
+TaskQue
+Task manager with automatic assignment of tasks based on the resource workload.
+Docflare
+Do you know whether the documents that you send per email are ever read?
+WorkMate
+A web-based project collaboration platform.
+SEO Tools Centre
+SEO Tools Centre provides SEO checker services for websites.
+Publicate
+Create powerful email newsletters and weekly web roundups from curated content.
+Elastic Email
+All in one email delivery platform that includes an SMTP Relay, API, and a full suite of tools via...
+Spendee
+Spendee is an awesome new app for managing your personal finances on the go.
+Simple Time-Tracking, one-click pdf invoice.
+IQBoxy
+Mobile app built to help you quickly gain control of your expenses, keep track of receipts for tax...
+DeskTime
+DeskTime is a real-time time tracking software that analyzes productivity.
+Vignette
+If you are looking for a personal finance app that is convenient, easy to use and at the same time...
+iCompta
+Personal finance manager.
+Smart Receipts
+Smart Receipts tracks receipt data and allows you to generate both PDF and CSV reports that can be...
+Salespatron
+All-in-one enterprise sales presentation and client engagement solution.
+Advanced Web Ranking
+Knowing your position in the search engines is one of the most important factors that can affect...
+ExoShare
+Exoshare.com uploads your file to several free hosting providers.
+Mailblast
+Email Marketing on a budget using Amazon SES
+Mavenlink
+Majestic SEO
+Link intelligence tools for SEO and Internet PR and Marketing.
+WakaTime
+Analytics for programmers using open-source text editor plugins.
+turboSMTP
+turboSMTP is a reliable, powerful, easy-to-use SMTP server that maximizes the deliverability of all...
+Wally-Smart Personal Finance
+Wally is a personal finance app that lets you take control of your money.
+Benson Bank CMS
+Benson Bank CMS manages your finance for free.
+Chronicle
+ProcrastiTracker
+Track and categorize your computer usage via recording of titlebar text.
+Receipt Bank
+Extracts the key information from your bills, receipts and invoices, removing the need for manual...
+elink
+Turn links into visually appealing newsletters, web pages and website embeds.
+What I Spend
+Personal expense manager
+Peek
+Test over 40+ aspects of any website. Test for everything.
+ActiveCampaign
+Web based software company focused on improving the way you run your business.
+MoonMail
+MoonMail is an Email Marketing Software Platform to send Email Marketing Newsletters in the easiest...
+LinkDiagnosis
+Easily see backlinks from your competitors.
+Betasend
+Email Marketing And Automation Company
+SwiftERM
+Fully automatic Email remarketing SaaS for ecommerce
+Albert
+Albert is a mobile, personal financial adviser.
+MaxMirror
+MaxMirror.com uploads your file to several free hosting providers.
+EntryRocket
+Simplify your bookkeeping by automating file imports into Xero.
+Datamolino
+Cut bookkeeping time in half!
