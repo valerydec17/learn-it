@@ -29,26 +29,29 @@ class MySpider(Spider):
 
 		str_title = ""
 		str_shortDescription = ""
-		
+	
+		item = AlternativetoItem()
+		# if statements should be put here
+
 		try:
 			str_title = response.xpath('/html/body/form/section/div[2]/header/div[1]/div/h1/text()').extract()[0]
 			str_shortDescription = response.xpath('/html/body/form/section/div[2]/header/div[1]/div/p/text()').extract()[0]
+
+			item["atitle"] = response.xpath('/html/body/form/section/div[2]/header/div[1]/div/h1/text()').extract()[0].strip()
+			item["shortDescription"] = response.xpath('/html/body/form/section/div[2]/header/div[1]/div/p/text()').extract()[0].strip()
+			item["likes"] = response.xpath('/html/body/form/section/div[2]/header/div[1]/div/div/div[2]/span/text()').extract()[0].strip() 
+			item["description"] = response.xpath('/html/body/form/section/div[2]/div[1]/div[1]/div/span/p/text()').extract()[0].strip()
+			item["officialSite"] = response.xpath('/html/body/form/section/div[2]/div[3]/div[1]/div/a[2]/@href').extract()[0].strip()
+
 		except:
 			print "Item not found on the page"
 
 		print str_title, str_shortDescription
 
-		item = AlternativetoItem()
-		# if statements should be put here
-
-
-		item["atitle"] = str_title.strip()
-		item["shortDescription"] = str_shortDescription.strip()
 		# pdb.set_trace()
 
 		os.system('echo ' + str_title.strip() + ' >> items.txt')
 		os.system('echo ' + str_shortDescription.strip() + ' >> items.txt')
-
 
 		# Parse links
 		links = response.xpath('//a/@href').extract()

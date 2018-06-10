@@ -21,7 +21,6 @@ class AlternativetoItem(scrapy.Item):
 
     atitle = scrapy.Field()
     shortDescription = scrapy.Field()
-
-    # description = scrapy.Field()
-    # likes = scrapy.Field()
-    # officialSite = scrapy.Field()
+    description = scrapy.Field()
+    likes = scrapy.Field()
+    officialSite = scrapy.Field()
