@@ -24,3 +24,10 @@ class AlternativetoItem(scrapy.Item):
     description = scrapy.Field()
     likes = scrapy.Field()
     officialSite = scrapy.Field()
+
+
+class YoutubeItem(scrapy.Item):
+	title = scrapy.Field()
+	liked = scrapy.Field()
+	disliked = scrapy.Field()
+	channelName = scrapy.Field()
