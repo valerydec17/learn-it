@@ -1,0 +1,8 @@
+## Packages to install on Ubuntu
+without them R install.packages() doesn't work correctly
+the solution was found on stackoverflow
+
+sudo apt-get install libssl-dev libcurl4-openssl-dev libxml2-dev
+
+
+
